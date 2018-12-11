@@ -1,0 +1,17 @@
+[package]
+name = "advent2018"
+version = "0.1.0"
+authors = ["Filip B"]
+edition = "2018"
+
+[lib]
+name = "lib"
+path = "src/lib.rs"
+
+[[bin]]
+name = "main"
+path = "src/main.rs"
+
+[dependencies]
+
+
